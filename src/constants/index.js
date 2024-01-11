@@ -256,7 +256,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: movix,
+    image: netflix,
     hosted_link: "https://netflix-clone-ten-zeta-29.vercel.app/",
     source_code_link: "https://github.com/MansiSehgal/Netflix-Clone",
   },

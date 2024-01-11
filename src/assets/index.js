@@ -41,6 +41,7 @@ import cravebite from "./cravebite.png";
 import chatbot from "./chatbot.png";
 import ecommerce from "./ecommerce.png";
 import movix from "./movix.png";
+import netflix from "./netflix.svg";
 import randomuser from "./randomuser.png";
 import sgfi from "./sgfi.png";
 import todo from "./todo.png";
@@ -105,6 +106,7 @@ export {
   sgfi,
   randomuser,
   movix,
+  netflix,
   ecommerce,
   chatbot,
   cravebite,
