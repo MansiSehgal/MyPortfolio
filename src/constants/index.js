@@ -31,6 +31,7 @@ import {
   sgfi,
   randomuser,
   movix,
+  netflix,
   ecommerce,
   chatbot,
   cravebite,
