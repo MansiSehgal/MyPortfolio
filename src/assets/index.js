@@ -62,7 +62,7 @@ import speedometer from "./service_icon/speedometer.png";
 import ui from "./service_icon/ui.png";
 import durapid from "./durapid.png";
 import fsl from "./fsl.png";
-import nextJs from "./tech/nextJs.png";
+import nextJs from "./tech/nextjsLogo.webp";
 import mansiLogo from "./MansiLogo.svg";
 export {
   logo,
