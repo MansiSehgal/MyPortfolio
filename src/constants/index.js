@@ -258,7 +258,7 @@ const projects = [
       },
     ],
     image: netflix,
-    hosted_link: "https://netflix-clone-ten-zeta-29.vercel.app/",
+    hosted_link: "https://netflix-clone-nextjs-sandy.vercel.app/",
     source_code_link: "https://github.com/MansiSehgal/Netflix-Clone",
   },
   {
