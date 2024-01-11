@@ -41,7 +41,7 @@ import cravebite from "./cravebite.png";
 import chatbot from "./chatbot.png";
 import ecommerce from "./ecommerce.png";
 import movix from "./movix.png";
-import netflix from "./netflix.svg";
+import netflix from "./netflix.png";
 import randomuser from "./randomuser.png";
 import sgfi from "./sgfi.png";
 import todo from "./todo.png";
@@ -62,7 +62,7 @@ import speedometer from "./service_icon/speedometer.png";
 import ui from "./service_icon/ui.png";
 import durapid from "./durapid.png";
 import fsl from "./fsl.png";
-import nextJs from "./tech/nextjsLogo.webp";
+import nextJs from "./nextjsLogo.png";
 import mansiLogo from "./MansiLogo.svg";
 export {
   logo,
