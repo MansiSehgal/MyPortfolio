@@ -51,6 +51,7 @@ import {
   durapid,
   fsl,
   nextJs,
+  blogPost,
 } from "../assets";
 
 export const overview =
@@ -200,13 +201,12 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "April 2022 - Present",
     points: [
-      "Developed and maintained user interfaces using HTML5, CSS3, and JavaScript ES6, React.js, Redux Toolkit, TypeScript",
-      "Implemented state management with ReactJS and Redux, enhancing application performance.",
-      "Designed user interfaces using Material UI, Chakra UI, and Bootstrap, ensuring a seamless user experience.",
-      "Hands-on experience in developing and maintaining web applications.",
-      "Proficient in building responsive, user-friendly web applications using React.js, focusing on modular and reusable components.",
-      "Collaborated with UI/UX designers to create visually appealing and intuitive interfaces, ensuring seamless user experiences",
-      "Utilized Tailwind CSS and SCSS for efficient and scalable styling solutions.",
+      "Developed scalable and reusable web applications using React.js, Redux Toolkit, Type-Script, and Material-UI, resulting in a 40% improvement in page load speed.",
+      "Led the UI/UX enhancement efforts that increased user engagement by 30%, with a 20% rise in daily active users.",
+      "Integrated RESTful APIs using React Query for efficient data fetching and caching, ensuring high-performance applications for enterprise-level clients.",
+      "Collaborated with cross-functional teams to implement multi-role Azure B2C authentication, enabling secure user access for different customer segments.",
+      "Improved developer workflows and reduced code duplication by 20% by building and maintaining reusable UI components.",
+      "Optimized application performance through advanced techniques like lazy loading and code-splitting.",
     ],
   },
 ];
@@ -239,6 +239,24 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Mini Blog Platform",
+    description:
+      "A Mini Blog Platform built with Next.js and TypeScript is a lightweight, SEO-friendly web application that allows users to view, create, and manage blog posts. It leverages Next.js features like Static Site Generation (SSG) and Server-Side Rendering (SSR) for fast performance and dynamic routing. TypeScript ensures type safety and better code maintainability. The platform typically includes a homepage listing posts, dynamic post detail pages, and a form to add new posts.",
+    tags: [
+      {
+        name: "NextJS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "TypeScript",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: blogPost,
+    hosted_link: "https://mini-blog-website-steel.vercel.app/",
+    source_code_link: "https://github.com/MansiSehgal/mini-blog-platform",
+  },
   {
     name: "Netflix Clone App",
     description:

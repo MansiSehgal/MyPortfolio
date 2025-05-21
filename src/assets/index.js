@@ -42,6 +42,7 @@ import chatbot from "./chatbot.png";
 import ecommerce from "./ecommerce.png";
 import movix from "./movix.png";
 import netflix from "./netflix.png";
+import blogPost from "./blogPost.png";
 import randomuser from "./randomuser.png";
 import sgfi from "./sgfi.png";
 import todo from "./todo.png";
@@ -127,4 +128,5 @@ export {
   fsl,
   mansiLogo,
   nextJs,
+  blogPost,
 };

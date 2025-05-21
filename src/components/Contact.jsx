@@ -29,6 +29,7 @@ const Contact = () => {
           message: form.message,
         },
         "brHxP0Dz2ASDIg26x"
+        
       )
       .then(() => {
         setLoading(false);
